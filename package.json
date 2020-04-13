@@ -1,0 +1,21 @@
+{
+  "name": "epub-maker",
+  "version": "1.0.0",
+  "description": "system for transforming feedbook ebooks into rareaudiobooks ebooks",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "keywords": [
+    "epub"
+  ],
+  "author": "Saul van der Walt",
+  "license": "MIT",
+  "dependencies": {
+    "adm-zip": "^0.4.13",
+    "archiver": "^3.1.1",
+    "cheerio": "^1.0.0-rc.3",
+    "dayjs": "^1.8.18",
+    "rimraf": "^3.0.0"
+  }
+}
