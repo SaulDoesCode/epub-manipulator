@@ -1,5 +1,5 @@
 {
-  "name": "epub-maker",
+  "name": "epub-manipulator",
   "version": "1.0.0",
   "description": "system for transforming feedbook ebooks into rareaudiobooks ebooks",
   "main": "index.js",
